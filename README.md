@@ -1,4 +1,4 @@
 # vault
 Where someday you might find a thing or two you need.
 
-Coming soon. Stay tuned.
+The password to what? Coming soon. Stay tuned.
