@@ -3,4 +3,4 @@ Where someday you might find a thing or two you need.
 
 19.01.26 https://byemarianne.com/guestbook
 
-(you'll also want your cryptonym: https://byemarianne.com/cryptonym
+(you'll also want your cryptonym: https://byemarianne.com/cryptonym)
